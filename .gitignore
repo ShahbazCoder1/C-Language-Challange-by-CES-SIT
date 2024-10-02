@@ -1,0 +1,9 @@
+/.idx/dev.nix
+# Makefile-generated executables
+*.o
+*.out
+*.exe
+
+# Other generated files
+*.d
+*.deps
