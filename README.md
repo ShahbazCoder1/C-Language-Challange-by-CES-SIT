@@ -49,4 +49,4 @@ This repository is licensed under the MIT License.
 
 ## Acknowledgments
 
-*   [Then] for providing the 30-day coding challenge
+* [Computer Engineer s' Society of SIT](https://www.linkedin.com/company/computer-engineers-society-sit/) for providing the 30-day coding challenge
