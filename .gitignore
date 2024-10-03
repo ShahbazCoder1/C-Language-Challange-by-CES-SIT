@@ -1,5 +1,4 @@
 .idx/dev.nix
-/var_init
 
 # Makefile-generated executables
 *.o
