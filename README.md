@@ -13,8 +13,7 @@ This repository contains solutions to the 30-day coding challenge. Each day's ch
 | Day | Challenge | File |
 | --- | --- | --- |
 | 1   | Hello World | `hello.c` |
-| 2   | Sum of Numbers | `sum.c` |
-| 3   | Odd/Even Checker | `odd_even.c` |
+| 2   | Practice declaring and Initializing Variables | `var_init.c` |
 
 ## Getting Started
 
@@ -49,4 +48,4 @@ This repository is licensed under the MIT License.
 
 ## Acknowledgments
 
-*   [Then] for providing the 30-day coding challenge
+* [Computer Engineer s' Society of SIT](https://www.linkedin.com/company/computer-engineers-society-sit/) for providing the 30-day coding challenge
