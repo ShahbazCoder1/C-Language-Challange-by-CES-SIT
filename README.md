@@ -13,7 +13,10 @@ This repository contains solutions to the 30-day coding challenge. Each day's ch
 | Day | Challenge | File |
 | --- | --- | --- |
 | 1   | Hello World | `hello.c` |
-| 2   | Practice declaring and Initializing Variables | `var_init.c` |
+| 2   | Practice declaring and Initializing Variables | `var_init.c` |
+| 3   | Write a program to take input from the user and print the values | `input_val.c` |
+| 4   | Perform arithmetic operations (Addition, Subtraction, Multiplication, Division, Modulus) | `math_sol.c` |
+
 
 ## Getting Started
 
