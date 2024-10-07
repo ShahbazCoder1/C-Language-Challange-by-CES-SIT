@@ -16,6 +16,8 @@ This repository contains solutions to the 30-day coding challenge. Each day's ch
 | 2   | Practice declaring and Initializing Variables | `var_init.c` |
 | 3   | Write a program to take input from the user and print the values | `input_val.c` |
 | 4   | Perform arithmetic operations (Addition, Subtraction, Multiplication, Division, Modulus) | `math_sol.c` |
+| 5   | Practice using IF-ELSE for simple decision making | `conditional_stmt.c` |
+| 6   | Write a program to find the Largest of Two Numbers using IF-ELSE | `largest.c` |
 
 
 ## Getting Started
