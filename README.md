@@ -40,12 +40,6 @@ Feel free to:
 *   Solve challenges and submit pull requests
 *   Report issues or suggest improvements
 
-
-## License
-
-This repository is licensed under the MIT License.
-
-
 ## Author
 
 [ShahbazCoder1](https://github.com/ShahbazCoder1)
