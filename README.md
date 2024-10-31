@@ -1,50 +1,68 @@
-# Coding Challenges
+# C Language Coding Challenges 🖥️
 
-A collection of coding challenges and solutions in C.
+A comprehensive 30-day C programming challenge repository, designed to enhance coding skills and understanding of the C language.
 
+## Project Badges
 
-## 30-Day Coding Challenge
+![Beginner Friendly](https://img.shields.io/badge/code-beginner--friendly-purple)
+![Days Completed](https://img.shields.io/badge/days%20completed-23%2F30-green)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
+![Top Language](https://img.shields.io/github/languages/top/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
+![GitHub Stars](https://img.shields.io/github/stars/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
+![GitHub Forks](https://img.shields.io/github/forks/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
 
-This repository contains solutions to the 30-day coding challenge. Each day's challenge is solved in a separate C file.
+## 🎯 30-Day Coding Challenge Overview
 
+This repository contains solutions to a comprehensive 30-day C programming challenge. Each day focuses on a specific programming concept, helping learners progressively build their C programming skills.
 
-### Challenges
+### 📚 Challenge Progress
 
-| Day | Challenge | File |
-| --- | --- | --- |
-| 1   | Hello World | `hello.c` |
-| 2   | Practice declaring and Initializing Variables | `var_init.c` |
-| 3   | Write a program to take input from the user and print the values | `input_val.c` |
-| 4   | Perform arithmetic operations (Addition, Subtraction, Multiplication, Division, Modulus) | `math_sol.c` |
-| 5   | Practice using IF-ELSE for simple decision making | `conditional_stmt.c` |
-| 6   | Write a program to find the Largest of Two Numbers using IF-ELSE | `largest.c` |
+| Day | Challenge Description | Source File | Concepts Covered |
+|-----|----------------------|-------------|-----------------|
+| 1   | Hello World | `hello.c` | Basic program structure |
+| 2   | Variable Declaration and Initialization | `var_init.c` | Variables, data types |
+| 3   | User Input and Output | `input_val.c` | I/O functions, user interaction |
+| 4   | Arithmetic Operations | `math_sol.c` | Mathematical operations, operators |
+| 5   | Conditional Statements (If-Else) | `conditional_stmt.c` | Decision making, control flow |
+| 6   | Finding Largest Number | `largest.c` | Comparative logic, conditional statements |
+| ... | More challenges to come | | |
 
+## 🚀 Getting Started
 
-## Getting Started
+### Prerequisites
+- GCC Compiler
+- Make utility
+- Basic understanding of C programming
 
-1. Clone the repository: `git clone https://github.com/ShahbazCoder1/C-Language-Challange-by-CES-SIT.git`
-2. Navigate to the repository: `cd C-Language-Challange-by-CES-SIT`
-3. Compile and run individual challenges using `make` (e.g., `make TARGET=hello`)
+### Installation and Setup
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ShahbazCoder1/C-Language-Challange-by-CES-SIT.git
+   ```
 
-## Makefile
+2. Navigate to the project directory:
+   ```bash
+   cd C-Language-Challange-by-CES-SIT
+   ```
 
-A `Makefile` is provided to simplify compilation and execution of challenges.
+### Compilation and Execution
 
+Use the provided Makefile to compile and run individual challenges:
 
-## Contributing
+```bash
+make TARGET=var_init    # Compiles var_init.c
+./var_init # runs var_init.c
+```
 
-Feel free to:
-
-*   Fork the repository
-*   Solve challenges and submit pull requests
-*   Report issues or suggest improvements
-
-## Author
+## 👤 Author
 
 [ShahbazCoder1](https://github.com/ShahbazCoder1)
 
+## 🙏 Acknowledgments
 
-## Acknowledgments
+Special thanks to the [Computer Engineers' Society of SIT](https://www.linkedin.com/company/computer-engineers-society-sit/) for designing this coding challenge questions.
 
-* [Computer Engineer s' Society of SIT](https://www.linkedin.com/company/computer-engineers-society-sit/) for providing the 30-day coding challenge
+---
+
+**Happy Coding! 💻✨**
