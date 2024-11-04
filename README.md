@@ -5,7 +5,7 @@ A comprehensive 30-day C programming challenge repository, designed to enhance c
 ## Project Badges
 
 ![Beginner Friendly](https://img.shields.io/badge/code-beginner--friendly-purple)
-![Days Completed](https://img.shields.io/badge/days%20completed-23%2F30-green)
+![Days Completed](https://img.shields.io/badge/days%20completed-43%2F30-green)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
 ![Top Language](https://img.shields.io/github/languages/top/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
 ![GitHub Stars](https://img.shields.io/github/stars/ShahbazCoder1/C-Language-Challange-by-CES-SIT)
