@@ -1,4 +1,4 @@
-// Day 8 of 30 days Challange by CES SIT
+// Day 9 of 30 days Challange by CES SIT
 // Implement a Program using Switch-Case to Simulate a Simple Menu. OR Create a Simple Calculator using Switch-Case.
 
 #include <stdio.h>
